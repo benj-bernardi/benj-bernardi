@@ -62,7 +62,6 @@ Mesmo sendo brasileiro, acredito que programar em inglês é uma habilidade esse
 - Commits claros e objetivos
 
 ##  Contato
-- LinkedIn: https://www.linkedin.com/in/benjamin-bernardi-a9bb293a1/
 - Email: benjaminbernardi33@gmail.com
 
 ## 📊 GitHub Stats

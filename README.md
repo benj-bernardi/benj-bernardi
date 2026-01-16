@@ -28,7 +28,7 @@ Atualmente estou estudando e construindo projetos práticos para evoluir como de
 Meus projetos são divididos principalmente em duas áreas:
 
 ### JavaScript / Node.js
-Aqui estão meus projetos backend, focados em:
+Aqui estão meus estudos backend, focados em:
 - APIs RESTful
 - Organização de código
 - Integração com banco de dados (PostgreSQL)
@@ -36,15 +36,15 @@ Aqui estão meus projetos backend, focados em:
 
 Esses projetos refletem meu estudo contínuo em backend e minha evolução como desenvolvedor.
 
-### ESP32 / ESP32-S3
-Neste espaço, publico projetos voltados para:
-- Programação embarcada
-- Comunicação serial
-- Testes com sensores e módulos
-- Integração entre hardware e software
+### Auth API
+Projeto backend focado em autenticação, abordando:
+- Registro e login de usuários
+- Hash de senha com bcrypt
+- Autenticação com JWT
+- Rotas protegidas
+- Boas práticas de segurança e organização
 
-Esses repositórios servem tanto para aprendizado quanto para experimentação prática.
-
+Esse projeto representa minha evolução no desenvolvimento de sistemas de autenticação para APIs backend.
 
 ## Por que meus projetos estão em inglês?
 

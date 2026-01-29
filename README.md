@@ -1,27 +1,31 @@
 # Opa, eu sou o Benj!
-### Desenvolvedor Backend | Node.js • APIs REST • PostgreSQL
+### Desenvolvedor Backend Student | Node.js • APIs REST • PostgreSQL • Autenticação JWT
 
-![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens)
 
-Sou desenvolvedor backend focado em **Node.js**, **APIs RESTful** e **PostgreSQL**.
-Atualmente estou estudando e construindo projetos práticos para evoluir como desenvolvedor.
+Desenvolvedor em formação focado na construção de APIs REST seguras com Node.js e PostgreSQL, aplicando autenticação com JWT, controle de acesso por roles e organização de arquitetura.
 
----
 ## Tecnologias
 - JavaScript (Node.js)
 - Express.js
 - PostgreSQL
 - APIs REST
 - Git & GitHub
+- JWT
+- bcrypt
+- MVC Pattern
 ---
 
 ## Estudando agora
-- Boas práticas de APIs REST
-- Autenticação (JWT)
-- Organização de projetos backend
-- Segurança básica (bcrypt, validações)
+- Boas práticas de arquitetura backend
+- Segurança em APIs
+- Validação de dados
+- Organização de projetos escaláveis
 
 ## Sobre meus repositórios
 
@@ -37,14 +41,25 @@ Aqui estão meus estudos backend, focados em:
 Esses projetos refletem meu estudo contínuo em backend e minha evolução como desenvolvedor.
 
 ### Auth API
-Projeto backend focado em autenticação, abordando:
+API de autenticação completa com:
 - Registro e login de usuários
 - Hash de senha com bcrypt
 - Autenticação com JWT
-- Rotas protegidas
-- Boas práticas de segurança e organização
+- Rotas protegidas por middleware
+- Controle de acesso por role (admin/user)
+- PostgreSQL como banco de dados
 
+Com foco em segurança, organização e arquitetura backend.
 Esse projeto representa minha evolução no desenvolvimento de sistemas de autenticação para APIs backend.
+
+### O que eu já construo
+- APIs REST completas
+- Sistema de autenticação com JWT
+- Controle de acesso por roles (admin/user)
+- Estruturação de projetos backend do zero
+- Proteção de rotas com middleware
+- Integração com PostgreSQL
+- Hash seguro de senhas
 
 ## Por que meus projetos estão em inglês?
 
@@ -57,9 +72,10 @@ Mesmo sendo brasileiro, acredito que programar em inglês é uma habilidade esse
 
 
 ## Como eu penso código
-- Código simples > código complexo
-- Prefiro entender o **porquê** antes de copiar solução
-- Commits claros e objetivos
+- Valorizo código limpo e legível
+- Prefiro entender a base antes de usar soluções prontas
+- Organização de projeto é prioridade
+- Preocupação com segurança e estrutura de APIs
 
 ##  Contato
 - Email: benjaminbernardi33@gmail.com

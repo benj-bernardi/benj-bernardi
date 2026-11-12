@@ -1,84 +1,83 @@
 # Opa, eu sou o Benj!
-### Desenvolvedor Backend Student | Node.js • APIs REST • PostgreSQL • Autenticação JWT
+
+### Backend Student \| JavaScript • Node.js • Express • PostgreSQL
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens)
 
-Desenvolvedor em formação focado na construção de APIs REST seguras com Node.js e PostgreSQL, aplicando autenticação com JWT, controle de acesso por roles e organização de arquitetura.
+Estudante de desenvolvimento backend, focado em JavaScript e Node.js.
+Atualmente desenvolvo APIs REST utilizando Express e PostgreSQL,
+estudando autenticação, segurança, testes automatizados e boas práticas
+de desenvolvimento.
 
 ## Tecnologias
-- JavaScript (Node.js)
-- Express.js
-- PostgreSQL
-- APIs REST
-- Git & GitHub
-- JWT
-- bcrypt
-- MVC Pattern
----
 
-## Estudando agora
-- Boas práticas de arquitetura backend
-- Segurança em APIs
-- Validação de dados
-- Organização de projetos escaláveis
+-   JavaScript (Node.js)
+-   Express.js
+-   PostgreSQL
+-   REST APIs
+-   Git & GitHub
+-   JWT
+-   bcrypt
+-   Jest & Supertest
+-   MVC Pattern
 
-## Sobre meus repositórios
+## Estudando atualmente
 
-Meus projetos são divididos principalmente em duas áreas:
+-   Testes automatizados para APIs
+-   Segurança e autenticação em aplicações backend
+-   Arquitetura e organização de projetos
+-   Validação e tratamento de dados
+-   Boas práticas de desenvolvimento
 
-### JavaScript / Node.js
-Aqui estão meus estudos backend, focados em:
-- APIs RESTful
-- Organização de código
-- Integração com banco de dados (PostgreSQL)
-- Boas práticas de desenvolvimento
-
-Esses projetos refletem meu estudo contínuo em backend e minha evolução como desenvolvedor.
+## Projetos
 
 ### Auth API
-API de autenticação completa com:
-- Registro e login de usuários
-- Hash de senha com bcrypt
-- Autenticação com JWT
-- Rotas protegidas por middleware
-- Controle de acesso por role (admin/user)
-- PostgreSQL como banco de dados
 
-Com foco em segurança, organização e arquitetura backend.
-Esse projeto representa minha evolução no desenvolvimento de sistemas de autenticação para APIs backend.
+API de autenticação e gerenciamento de usuários desenvolvida com
+Node.js, Express e PostgreSQL.
 
-### O que eu já construo
-- APIs REST completas
-- Sistema de autenticação com JWT
-- Controle de acesso por roles (admin/user)
-- Estruturação de projetos backend do zero
-- Proteção de rotas com middleware
-- Integração com PostgreSQL
-- Hash seguro de senhas
+**Funcionalidades:** - Registro e login de usuários - Hash de senhas com
+bcrypt - Autenticação utilizando JWT - Rotas protegidas por middleware -
+Controle de acesso baseado em roles (admin/user) - Gerenciamento de
+usuários - Testes automatizados
 
-## Por que meus projetos estão em inglês?
+**Tecnologias:** Node.js, Express, PostgreSQL, JWT, bcrypt, Jest e
+Supertest.
 
-Optei por escrever meus códigos, comentários e commits em inglês porque:
-- É o padrão do mercado de tecnologia
-- Facilita colaboração com desenvolvedores de qualquer país
-- Me prepara melhor para oportunidades internacionais
+[Repository](https://github.com/benj-bernardi/auth-api)
 
-Mesmo sendo brasileiro, acredito que programar em inglês é uma habilidade essencial para crescer na área.
+### Posts API
 
+API REST para gerenciamento de publicações e comentários, desenvolvida
+com Node.js, Express e PostgreSQL.
+
+**Funcionalidades:** - Criação e gerenciamento de publicações - Sistema
+de comentários - Integração com PostgreSQL - Relacionamento entre
+usuários, publicações e comentários - Organização de rotas, controllers
+e models
+
+**Tecnologias:** Node.js, Express e PostgreSQL.
+
+[Repository](https://github.com/benj-bernardi/posts-api)
 
 ## Como eu penso código
-- Valorizo código limpo e legível
-- Prefiro entender a base antes de usar soluções prontas
-- Organização de projeto é prioridade
-- Preocupação com segurança e estrutura de APIs
 
-##  Contato
-- Email: benjaminbernardi33@gmail.com
+-   Entender antes de implementar.
+-   Priorizar código limpo e legível.
+-   Valorizar organização e separação de responsabilidades.
+-   Desenvolver soluções pensando em segurança.
+-   Aprender os fundamentos em vez de depender de soluções prontas.
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benj-bernardi&show_icons=true)
+## Contato
+
+-   Email: benjaminbernardi33@gmail.com
+
+## GitHub Stats
+
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=benj-bernardi&show_icons=true&theme=default)

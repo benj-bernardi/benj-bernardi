@@ -70,7 +70,7 @@ com Node.js, Express e PostgreSQL.
 
 [Repository](https://github.com/benj-bernardi/posts-api)
 
-## Como eu penso código
+## Como eu penso no código
 
 -   Entender antes de implementar.
 -   Priorizar código limpo e legível.
@@ -81,7 +81,3 @@ com Node.js, Express e PostgreSQL.
 ## Contato
 
 -   Email: benjaminbernardi33@gmail.com
-
-## GitHub Stats
-
-![GitHubStats](https://github-readme-stats.vercel.app/api?username=benj-bernardi&show_icons=true&theme=default)

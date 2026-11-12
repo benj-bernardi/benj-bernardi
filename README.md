@@ -84,5 +84,4 @@ com Node.js, Express e PostgreSQL.
 
 ## GitHub Stats
 
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=benj-bernardi&show_icons=true&theme=default)
+![GitHubStats](https://github-readme-stats.vercel.app/api?username=benj-bernardi&show_icons=true&theme=default)

@@ -41,13 +41,16 @@ de desenvolvimento.
 API de autenticação e gerenciamento de usuários desenvolvida com
 Node.js, Express e PostgreSQL.
 
-**Funcionalidades:** - Registro e login de usuários - Hash de senhas com
-bcrypt - Autenticação utilizando JWT - Rotas protegidas por middleware -
-Controle de acesso baseado em roles (admin/user) - Gerenciamento de
-usuários - Testes automatizados
+**Funcionalidades:** 
+- Registro e login de usuários 
+- Hash de senhas com bcrypt 
+- Autenticação utilizando JWT 
+- Rotas protegidas por middleware 
+- Controle de acesso baseado em roles (admin/user) 
+- Gerenciamento de usuários 
+- Testes automatizados
 
-**Tecnologias:** Node.js, Express, PostgreSQL, JWT, bcrypt, Jest e
-Supertest.
+**Tecnologias:** Node.js, Express, PostgreSQL, JWT, bcrypt, Jest e Supertest.
 
 [Repository](https://github.com/benj-bernardi/auth-api)
 
@@ -56,10 +59,12 @@ Supertest.
 API REST para gerenciamento de publicações e comentários, desenvolvida
 com Node.js, Express e PostgreSQL.
 
-**Funcionalidades:** - Criação e gerenciamento de publicações - Sistema
-de comentários - Integração com PostgreSQL - Relacionamento entre
-usuários, publicações e comentários - Organização de rotas, controllers
-e models
+**Funcionalidades:** 
+- Criação e gerenciamento de publicações 
+- Sistema de comentários 
+- Integração com PostgreSQL 
+- Relacionamento entre usuários, publicações e comentários 
+- Organização de rotas, controllers e models
 
 **Tecnologias:** Node.js, Express e PostgreSQL.
 
